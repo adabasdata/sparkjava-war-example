@@ -1,6 +1,6 @@
 import spark.servlet.SparkApplication;
 
-import static spark.Spark.get;
+import static spark.Spark.g
 
 public class HelloWorld implements SparkApplication {
 	public static void main(String[] args) {
