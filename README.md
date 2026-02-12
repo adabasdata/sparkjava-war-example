@@ -1,6 +1,6 @@
 #
 
- sparkjava-war-example-sai
+ sparkjava-war-example-sais
 Build war with maven and sparkjava frameworks
 
 Steps:
