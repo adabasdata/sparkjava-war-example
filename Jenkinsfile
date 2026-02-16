@@ -15,7 +15,7 @@ pipeline {
 
         stage('SonarQube analysis') {
             environment {
-                scannerHome = tool 'abhi-sonar-scanner'
+                scannerHome = tool 'saidemy01-sonar-server'
             }
             steps {
                 withSonarQubeEnv('sonarqube-server') {
